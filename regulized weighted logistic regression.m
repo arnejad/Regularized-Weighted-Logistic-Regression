@@ -1,3 +1,5 @@
+% This code has been developed by Ali Rahmani Nejad at IASBS for educational puporses
+
 %% Initialization
 % feats = demo2x{:,:};
 % lbls = demo2y{:,:};
