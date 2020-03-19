@@ -7,4 +7,4 @@ This codes provides a theoritical implementation of the Regulized Weighted Logis
 
 An example illustration of the output is provided below.
 
-<img src="param5.jpg" width="500">
+<img src="RWLR_output.jpg" width="500">
